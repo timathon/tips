@@ -1,0 +1,24 @@
+{
+	"tip001" : {
+		"title" : "create new empty file in windows command line",
+		"content" : "(type nul > newfile.txt) or (whateverInvalidCommand > newfile.txt)"
+	},
+	"tip002" : {
+		"title" : "run 'bower install' after npm install by script",
+		"content" : "put following in package.json: \"scripts\":{\"bower cache clean && bower install\"}"
+	},
+	"tip003" : {
+		"title" : "set bower components install folder",
+		"content" : "step1: create .bowerrc in root; \
+			step2: put following in .bowerrc: \
+			\"directory\":\"public/assets/lib\""
+	},
+	"tip000" : {
+		"title" : "",
+		"content" : ""
+	}
+}
+
+
+
+
